@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuchJack" /> </div>
-
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
