@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SuchJack&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=ffffff&show_icons=true&count_private=true&hide=issues" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchJack&layout=compact&title_color=81A1C1&bg_color=ffffff" />
 </p>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuchJack" /> </div>
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuchJack&theme=xcode" /> </div>
