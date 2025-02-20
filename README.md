@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchJack&layout=compact&title_color=81A1C1&bg_color=ffffff" />
 </p>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuchJack" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuchJack" /> </div>
+
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
