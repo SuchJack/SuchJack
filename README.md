@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=劝君更进一杯酒;西出阳关无故人!;技术的道路总是孤独的!!&center=true&size=27"> </a> </div>
+<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=劝君更进一杯酒;西出阳关无故人!&center=true&size=27"> </a> </div>
 
 <!--
 <p align="center">
